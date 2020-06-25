@@ -1,0 +1,17 @@
+{
+  "name": "sample-automerge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hello": "^0.3.2",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
