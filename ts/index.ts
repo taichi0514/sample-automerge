@@ -1,3 +1,3 @@
-const message: string = "hoge";
+const message: string = "ci test";
 
 console.log(message);
